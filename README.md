@@ -9,6 +9,7 @@ The API allows management of events, student registrations for events (many-to-m
 - Entity Framework Core 8.0
 - SQL Server LocalDB (Local Database)
 - Swagger (API Testing Tool)
+- Visual Studio Code
 
 ## Project Structure
 
