@@ -51,15 +51,6 @@ Replace `{your-port}` with the actual port number shown in the terminal.
 - All responses use standard HTTP status codes (`200 OK`, `201 Created`, `400 Bad Request`, `404 Not Found`, etc.).
 - Entity relationships and data integrity are handled via EF Core configuration in `ApplicationDbContext`.
 
-## Documentation
-
-Refer to the `CCPReport_UsmanAsalat(63158).docx` file provided in this repository. It includes:
-
-- System Objective and Architecture
-- Entity Relationship Diagram
-- API Testing Screenshots
-- Summary of Technologies Used
-- GitHub Repository Link
 
 ## Author
 
